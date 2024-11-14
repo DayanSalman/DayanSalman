@@ -52,10 +52,13 @@ My work often involves developing algorithms for anomaly detection, automating s
 <details>
  <summary><h3>👨‍💻 Mushaf's Coding Journey</h3></summary>
 
-I began my journey as a computer science student with  passion to learn everything I could about this programming world. However, I felt lost without proper guidance on which domain to pursue. It was tough, especially when my teacher reminded us that we had just three semesters to make our choice. So, I delved into research, exploring different fields which includes Cyber Security, Python tool developer, BackEnd Developer or FullStack Developer.
+I started my coding journey as a curious computer science student, eager to explore the vast world of programming. Early on, I faced the challenge of deciding which domain to specialize in. With a strong desire to learn everything, I ventured into various fields, including Cyber Security, Python tool development, BackEnd Development, and FullStack Development.
 
-After much contemplation, Data science caught my eyes on it. So in my second semester, I decided to dive into this exciting realm of Data. I enrolled in an applied data science course and embarked on my learning journey. Since then, I've immersed myself in the coding aspect, facing numerous challenging projects along the way.
-**Now, I proudly consider myself a self-taught data enthusiast!**
+Despite being overwhelmed by the options, I soon found myself gravitating toward Cybersecurity. I combined my skills in Python development to create tools for threat detection and vulnerability management while building secure, high-performance web applications with frameworks like Flask and Django.
+
+Today, my work focuses on developing intelligent systems for proactive threat detection and automating security processes. I am proud to consider myself a dedicated **Cybersecurity Specialist**, continuously innovating solutions that protect and secure the digital landscape.
+
+
 
 </details>
 
