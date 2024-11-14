@@ -15,7 +15,7 @@ My work often involves developing algorithms for anomaly detection, automating s
 **Lets Connect:**
 
 <p align="left">
-    <a href="https:/www.linkedin.com/in/dayansalman">
+    <a href="https://www.linkedin.com/in/dayansalman/">
         <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-6K-blue"/>
     </a>
     <a href="https://github.com/MushafMughal?tab=followers">
