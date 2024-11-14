@@ -68,5 +68,5 @@ After much contemplation, Data science caught my eyes on it. So in my second sem
   |[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MushafMughal&theme=gruvbox)](https://github.com/MushafMughal/)|[![GitHub Streak](https://streak-stats.demolab.com?user=MushafMughal&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/MushafMughal/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MushafMughal&theme=gruvbox)](https://github.com/MushafMughal/)|
 
 
-[![Mushaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MushafMughal&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/MushafMughal/Programming-Gifs)
+[![Dayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DayanSalman&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/MushafMughal/Programming-Gifs)
 <div align='center'>
