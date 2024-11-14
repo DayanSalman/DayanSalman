@@ -1,20 +1,20 @@
 <div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python+%7C+AI+%7C+ML+%7C+Data+Scientist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Engineer+%7C+Python+%7C+Ai+%7C+Information+Security" alt="Typing SVG" />
 </div><be>
 
 # About Me
 <img align='right' src='https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' widht=100 height=250 >
 
-Meet **Mushaf Sibtain** – Passionate data professional with a background in Computer Science, currently working in the field of data science and machine learning. Proficient in Exploratory Data Analysis, Data Science, SQL, Machine Learning, and NLP. With hands-on experience in real-world projects, I continue to enhance my expertise through both professional challenges and personal data projects.
+Meet **Dayan Salman** – a dedicated Cybersecurity Specialist and Python Tool Developer with a deep passion for protecting digital landscapes and innovating secure solutions. My career is rooted in building effective tools for threat detection, vulnerability management, and integrating advanced AI technologies to bolster cybersecurity measures. I am adept at developing resilient web applications with Python frameworks like Flask and Django, ensuring high performance and robust security.
 
-Enthusiastic about thriving in digital intelligence environments, I stay updated on the latest machine learning advancements. I'm eager to use cutting-edge data science tools to solve complex data problems and drive innovation.
+I have hands-on experience in the full software development lifecycle, from designing and coding to deploying and maintaining applications. Combining my cybersecurity knowledge with my Python development expertise, I strive to create intelligent systems that proactively detect and neutralize potential threats.
 
-Beyond the tools, I'm all about solving real-world problems using data. I believe data isn't just a bunch of numbers; it's the key to tackling some of the biggest challenges out there. 
+My work often involves developing algorithms for anomaly detection, automating security processes, and building interactive web interfaces for real-time security insights.
 
 **Lets Connect:**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mushaf-mughal/">
+    <a href="https:/www.linkedin.com/in/dayansalman/">
         <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-6K-blue"/>
     </a>
     <a href="https://github.com/MushafMughal?tab=followers">
@@ -51,7 +51,7 @@ Beyond the tools, I'm all about solving real-world problems using data. I believ
 <details>
  <summary><h3>👨‍💻 Mushaf's Coding Journey</h3></summary>
 
-I began my journey as a computer science student with  passion to learn everything I could about this programming world. However, I felt lost without proper guidance on which domain to pursue. It was tough, especially when my teacher reminded us that we had just three semesters to make our choice. So, I delved into research, exploring different fields which includes Data Scientist, FrontEnd Developer, BackEnd Developer or FullStack Developer.
+I began my journey as a computer science student with  passion to learn everything I could about this programming world. However, I felt lost without proper guidance on which domain to pursue. It was tough, especially when my teacher reminded us that we had just three semesters to make our choice. So, I delved into research, exploring different fields which includes Cyber Security, Python tool developer, BackEnd Developer or FullStack Developer.
 
 After much contemplation, Data science caught my eyes on it. So in my second semester, I decided to dive into this exciting realm of Data. I enrolled in an applied data science course and embarked on my learning journey. Since then, I've immersed myself in the coding aspect, facing numerous challenging projects along the way.
 **Now, I proudly consider myself a self-taught data enthusiast!**
