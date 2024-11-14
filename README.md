@@ -16,7 +16,7 @@ My work often involves developing algorithms for anomaly detection, automating s
 
 <p align="left">
     <a href="https://www.linkedin.com/in/dayansalman/">
-        <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-6K-blue"/>
+        <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue"/>
     </a>
     <a href="https://github.com/MushafMughal?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow_Me-+-blue"/>
