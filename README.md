@@ -50,7 +50,7 @@ My work often involves developing algorithms for anomaly detection, automating s
 # 
 
 <details>
- <summary><h3>👨‍💻 Mushaf's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Dayan's Coding Journey</h3></summary>
 
 I started my coding journey as a curious computer science student, eager to explore the vast world of programming. Early on, I faced the challenge of deciding which domain to specialize in. With a strong desire to learn everything, I ventured into various fields, including Cyber Security, Python tool development, BackEnd Development, and FullStack Development.
 
