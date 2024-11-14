@@ -30,6 +30,8 @@ My work often involves developing algorithms for anomaly detection, automating s
 
 ### 🧰 Languages and Tools
 
+### 🧰 Languages and Tools
+
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
@@ -40,9 +42,10 @@ My work often involves developing algorithms for anomaly detection, automating s
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
-<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Nmap_logo.svg" />
-<img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_logo_2020.svg" />
-<img align="left" alt="Kali Linux" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Kali_logo_2020.svg" />
+<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Nmap_logo.svg" />
+<img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Wireshark_Logo_2021.svg" />
+<img align="left" alt="Kali Linux" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kali_Linux_2020_logo.svg" />
+
 
 
 
